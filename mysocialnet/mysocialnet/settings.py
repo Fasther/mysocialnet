@@ -72,8 +72,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'mysocialnet.wsgi.application'
 
-LOGIN_REDIRECT_URL = "/"
-LOGOUT_REDIRECT_URL = "/"
+LOGIN_REDIRECT_URL = "test"
+LOGOUT_REDIRECT_URL = "thanks"
 
 
 # Database
